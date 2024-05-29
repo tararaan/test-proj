@@ -12,6 +12,11 @@
 =======
 テストブランチ 3 の追加
 
+<<<<<<< HEAD
 > > > > > > > test-branch
 
 test-branch2 　の修正追加
+=======
+ブランチ 0-修正
+>>>>>>> test-branch
+>>>>>>> test-branch3
