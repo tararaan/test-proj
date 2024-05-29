@@ -12,4 +12,6 @@
 =======
 テストブランチ 3 の追加
 
->>>>>>> test-branch
+> > > > > > > test-branch
+
+test-branch2 　の修正追加
