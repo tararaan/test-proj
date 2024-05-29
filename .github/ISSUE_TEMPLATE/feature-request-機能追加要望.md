@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**あなたの機能追加要望は、何かしらの課題や問題に直結してますか？**
+何が問題なのかを簡潔に記述してください （例： [...] のことをしようとした際にいつもフラストレーションを感じる）
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**どのように解決したいかを記述してください**
+簡潔にどのようになってほしいかを記述してください
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**他にも思いついた改善案があれば記述してください**
+あなたが考えたそれぞれのソリューション（解決案）を簡潔にわかりやすく記述してください
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**追加記述**
+他にも追加情報やスクリーンショットなどがある場合はこちらに記述やドラッグ＆ドロップしてください
