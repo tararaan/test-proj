@@ -21,6 +21,10 @@
 ブランチ 0-修正
 
 > > > > > > > test-branch
+<<<<<<< HEAD
 > > > > > > > test-branch3
 
 ブランチ 2 で追記
+=======
+> > > > > > > 　ブランチ 3 で追記
+>>>>>>> origin/test-branch3
